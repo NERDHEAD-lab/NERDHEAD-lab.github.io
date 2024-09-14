@@ -1,0 +1,333 @@
+[
+  {
+    "Name": "마수의 골짜기",
+    "Description": "혼돈으로 왜곡되어버린 고대 유적.\n분노에 찬 마수의 포효가 골짜기에 울려 퍼진다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 500,
+    "MaxItemLevel": 805,
+    "AreaName": "고대 유적 엘베리아",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "사령술사의 근원",
+    "Description": "혼돈으로 왜곡되어버린 고대 유적.\n음산한 사령술사의 야욕이 유적을 뒤덮고 있다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 500,
+    "MaxItemLevel": 805,
+    "AreaName": "고대 유적 엘베리아",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "비틀린 군주의 회랑",
+    "Description": "무너진 질서 속의 몽환의 궁전.\n혼돈의 품에서 몽환은 승두리째 비틀리기 시작한다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 635,
+    "MaxItemLevel": 960,
+    "AreaName": "몽환의 궁전",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "몽환궁전 힐데브리뉴",
+    "Description": "무너진 질서 속의 몽환의 궁전.\n몽환궁전 힐데브리뉴가 혼돈의 심연 속에서 서서히 그 모습을 드러낸다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 635,
+    "MaxItemLevel": 960,
+    "AreaName": "몽환의 궁전",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "탄식의 길",
+    "Description": "심연에서 되살아난 오만의 방주.\n과거의 영광은 바스러지고 탄식의 공동을 허무하게 울린다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 805,
+    "MaxItemLevel": 1340,
+    "AreaName": "오만의 방주",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "추락한 긍지의 용광로",
+    "Description": "심연에서 되살아난 오만의 방주.\n우마르의 긍지는 추락했고 비탄으로 가득한 참회만이 남았다.",
+    "MinCharacterLevel": 50,
+    "MaxItemLevel": 1340,
+    "AreaName": "오만의 방주",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "태만의 바다",
+    "Description": "아르카디아의 성역 초입에 있었던 바다가 일렁이기 시작한다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 960,
+    "MaxItemLevel": 1370,
+    "AreaName": "낙원의 문",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "고요한 카르코사",
+    "Description": "아르카디아의 성역 길목. 무너진 유적 깊은 곳에서 수호자들의 절규가 들려온다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 960,
+    "MaxItemLevel": 1370,
+    "AreaName": "낙원의 문",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "아르카디아의 성역",
+    "Description": "아르카디아의 성역 심장부. 이곳 어딘가에서 가디언 아르카디아가 낙원의 문을 지키고 있다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 960,
+    "MaxItemLevel": 1370,
+    "AreaName": "낙원의 문",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "아이락의 눈",
+    "Description": "심연으로 추락한 오레하의 우물. 혼돈으로 가득 찬 공간에 광기의 비소가 울려퍼진다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1340,
+    "MaxItemLevel": 1415,
+    "AreaName": "오레하의 우물",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "오레하 프라바사",
+    "Description": "심연으로 추락한 오레하의 우물. 비밀의 화구호 프라바사에서 혼돈으로 왜곡된 과거의 기억이 울부짖는다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1340,
+    "MaxItemLevel": 1415,
+    "AreaName": "오레하의 우물",
+    "Difficulty": "노말"
+  },
+  {
+    "Name": "아이락의 눈",
+    "Description": "심연으로 추락한 오레하의 우물. 혼돈으로 가득 찬 공간에 광기의 비소가 울려퍼진다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1370,
+    "MaxItemLevel": 1415,
+    "AreaName": "오레하의 우물",
+    "Difficulty": "하드"
+  },
+  {
+    "Name": "오레하 프라바사",
+    "Description": "심연으로 추락한 오레하의 우물. 비밀의 화구호 프라바사에서 혼돈으로 왜곡된 과거의 기억이 울부짖는다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1415,
+    "AreaName": "오레하의 우물",
+    "Difficulty": "하드"
+  },
+  {
+    "Name": "영원한 빛의 요람",
+    "Description": "신이 빚어낸 최후의 성역, 카양겔. 혼돈 속에 새겨진 과거는 아직 사라지지 않고, 빛을 일그러뜨리고 있다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1540,
+    "MaxItemLevel": -1,
+    "AreaName": "카양겔",
+    "Difficulty": "노말",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1540,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 800
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1540,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 1200
+          }
+        ],
+        "isEndContent": true
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1540,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 1600
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "영원한 빛의 요람",
+    "Description": "신이 빚어낸 최후의 성역, 카양겔. 혼돈 속에 새겨진 과거는 아직 사라지지 않고, 빛을 일그러뜨리고 있다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1580,
+    "MaxItemLevel": -1,
+    "AreaName": "카양겔",
+    "Difficulty": "하드",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1580,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 1000
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1580,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 1600
+          }
+        ]
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1580,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 2200
+          }
+        ]
+      }
+    ],
+    "isEndContent": true
+  },
+  {
+    "Name": "짓밟힌 정원",
+    "Description": "드높은 탑의 정상에 위치한 사고의 정원. 과거로부터 이어져 온 창조자들의 두려움이 다시금 모습을 드러낸다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1600,
+    "MaxItemLevel": -1,
+    "AreaName": "혼돈의 상아탑",
+    "Difficulty": "노말",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1600,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 1500
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1600,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 2000
+          }
+        ]
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1600,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 3000
+          }
+        ]
+      }
+    ],
+    "isEndContent": true
+  },
+  {
+    "Name": "짓밟힌 정원",
+    "Description": "드높은 탑의 정상에 위치한 사고의 정원. 과거로부터 이어져 온 창조자들의 두려움이 다시금 모습을 드러낸다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1620,
+    "MaxItemLevel": -1,
+    "AreaName": "혼돈의 상아탑",
+    "Difficulty": "하드",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1620,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 3000
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1620,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 4000
+          }
+        ]
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1620,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 6000
+          }
+        ]
+      }
+    ],
+    "isEndContent": true
+  }
+]
