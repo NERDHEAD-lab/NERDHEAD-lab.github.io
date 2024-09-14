@@ -149,8 +149,7 @@
             },
             "Amount": 1200
           }
-        ],
-        "IsEndContent": true
+        ]
       },
       {
         "Gate": 3,
@@ -166,7 +165,8 @@
           }
         ]
       }
-    ]
+    ],
+    "IsEndContent": true
   },
   {
     "Name": "영원한 빛의 요람",
