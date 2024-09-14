@@ -35,7 +35,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "발탄",
@@ -73,7 +73,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "발탄",
@@ -133,7 +133,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "비아키스",
@@ -185,7 +185,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "비아키스",
@@ -245,7 +245,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "쿠크세이튼",
@@ -319,7 +319,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "아브렐슈드",
@@ -385,7 +385,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "아브렐슈드",
@@ -445,7 +445,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "일리아칸",
@@ -497,7 +497,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "카멘",
@@ -549,7 +549,7 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   },
   {
     "Name": "카멘",
@@ -615,6 +615,6 @@
         ]
       }
     ],
-    "isEndContent": true
+    "IsEndContent": true
   }
 ]
