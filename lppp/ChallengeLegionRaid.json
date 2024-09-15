@@ -54,7 +54,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 900
+            "Amount": 700
           }
         ]
       },
@@ -114,20 +114,6 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 800
-          }
-        ]
-      },
-      {
-        "Gate": 3,
-        "MinItemLevel": 1430,
-        "RewardItems": [
-          {
-            "RewardItem": {
-              "Name": "골드",
-              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
-              "Grade": "일반"
-            },
             "Amount": 1000
           }
         ]
@@ -166,20 +152,6 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1200
-          }
-        ]
-      },
-      {
-        "Gate": 3,
-        "MinItemLevel": 1460,
-        "RewardItems": [
-          {
-            "RewardItem": {
-              "Name": "골드",
-              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
-              "Grade": "일반"
-            },
             "Amount": 1500
           }
         ]
@@ -212,7 +184,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1000
+            "Amount": 600
           }
         ]
       },
@@ -226,7 +198,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1300
+            "Amount": 900
           }
         ]
       },
@@ -240,7 +212,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1600
+            "Amount": 1500
           }
         ]
       }
@@ -248,7 +220,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "쿠크세이튼",
+    "Name": "광기군단장 쿠크세이튼",
+    "SimpleName": "쿠크세이튼",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1475,
     "AreaName": "한밤중의 서커스",
@@ -256,7 +229,8 @@
     "Gates": []
   },
   {
-    "Name": "아브렐슈드",
+    "Name": "몽환군단장 아브렐슈드",
+    "SimpleName": "아브렐슈드",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1490,
     "AreaName": "몽환의 아스탤지어",
@@ -272,7 +246,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1200
+            "Amount": 1000
           }
         ]
       },
@@ -286,7 +260,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1500
+            "Amount": 1000
           }
         ]
       },
@@ -300,7 +274,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1800
+            "Amount": 1000
           }
         ]
       },
@@ -314,7 +288,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2100
+            "Amount": 1600
           }
         ]
       }
@@ -322,7 +296,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "아브렐슈드",
+    "Name": "몽환군단장 아브렐슈드",
+    "SimpleName": "아브렐슈드",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1540,
     "AreaName": "몽환의 아스탤지어",
@@ -338,7 +313,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1500
+            "Amount": 1200
           }
         ]
       },
@@ -352,7 +327,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1800
+            "Amount": 1200
           }
         ]
       },
@@ -366,7 +341,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2100
+            "Amount": 2000
           }
         ]
       },
@@ -388,7 +363,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "아브렐슈드",
+    "Name": "몽환군단장 아브렐슈드",
+    "SimpleName": "아브렐슈드",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1560,
     "AreaName": "몽환의 아스탤지어",
@@ -396,7 +372,8 @@
     "Gates": []
   },
   {
-    "Name": "일리아칸",
+    "Name": "질병군단장 일리아칸",
+    "SimpleName": "일리아칸",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1580,
     "AreaName": "부패한 군주의 판데모니움",
@@ -412,7 +389,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1400
+            "Amount": 1000
           }
         ]
       },
@@ -426,7 +403,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1700
+            "Amount": 1800
           }
         ]
       },
@@ -440,7 +417,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2000
+            "Amount": 2600
           }
         ]
       }
@@ -448,7 +425,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "일리아칸",
+    "Name": "질병군단장 일리아칸",
+    "SimpleName": "일리아칸",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1600,
     "AreaName": "부패한 군주의 판데모니움",
@@ -464,7 +442,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 1700
+            "Amount": 1500
           }
         ]
       },
@@ -478,7 +456,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2000
+            "Amount": 2500
           }
         ]
       },
@@ -492,7 +470,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2300
+            "Amount": 3500
           }
         ]
       }
@@ -500,7 +478,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "카멘",
+    "Name": "어둠군단장 카멘",
+    "SimpleName": "카멘",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1610,
     "AreaName": "어둠의 바라트론",
@@ -516,7 +495,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2000
+            "Amount": 3500
           }
         ]
       },
@@ -530,7 +509,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2300
+            "Amount": 4000
           }
         ]
       },
@@ -544,7 +523,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2600
+            "Amount": 5500
           }
         ]
       }
@@ -552,7 +531,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "카멘",
+    "Name": "어둠군단장 카멘",
+    "SimpleName": "카멘",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1630,
     "AreaName": "어둠의 바라트론",
@@ -568,7 +548,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2000
+            "Amount": 5000
           }
         ]
       },
@@ -582,7 +562,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2300
+            "Amount": 6000
           }
         ]
       },
@@ -596,7 +576,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2600
+            "Amount": 9000
           }
         ]
       },
@@ -610,7 +590,7 @@
               "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
               "Grade": "일반"
             },
-            "Amount": 2900
+            "Amount": 21000
           }
         ]
       }
