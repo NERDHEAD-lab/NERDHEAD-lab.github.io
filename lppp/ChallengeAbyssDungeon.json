@@ -116,6 +116,7 @@
   },
   {
     "Name": "영원한 빛의 요람",
+    "SimpleName": "카양겔",
     "Description": "신이 빚어낸 최후의 성역, 카양겔. 혼돈 속에 새겨진 과거는 아직 사라지지 않고, 빛을 일그러뜨리고 있다.",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1540,
@@ -170,6 +171,7 @@
   },
   {
     "Name": "영원한 빛의 요람",
+    "SimpleName": "카양겔",
     "Description": "신이 빚어낸 최후의 성역, 카양겔. 혼돈 속에 새겨진 과거는 아직 사라지지 않고, 빛을 일그러뜨리고 있다.",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1580,
@@ -224,6 +226,7 @@
   },
   {
     "Name": "짓밟힌 정원",
+    "SimpleName": "상아탑",
     "Description": "드높은 탑의 정상에 위치한 사고의 정원. 과거로부터 이어져 온 창조자들의 두려움이 다시금 모습을 드러낸다.",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1600,
@@ -278,6 +281,7 @@
   },
   {
     "Name": "짓밟힌 정원",
+    "SimpleName": "상아탑",
     "Description": "드높은 탑의 정상에 위치한 사고의 정원. 과거로부터 이어져 온 창조자들의 두려움이 다시금 모습을 드러낸다.",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1620,

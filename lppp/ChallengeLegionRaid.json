@@ -1,6 +1,7 @@
 [
   {
-    "Name": "발탄",
+    "Name": "마수군단장 발탄",
+    "SimpleName": "발탄",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1415,
     "AreaName": "부활한 마수의 심장",
@@ -38,7 +39,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "발탄",
+    "Name": "마수군단장 발탄",
+    "SimpleName": "발탄",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1445,
     "AreaName": "부활한 마수의 심장",
@@ -76,7 +78,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "발탄",
+    "Name": "마수군단장 발탄",
+    "SimpleName": "발탄",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1445,
     "AreaName": "부활한 마수의 심장",
@@ -84,7 +87,8 @@
     "Gates": []
   },
   {
-    "Name": "비아키스",
+    "Name": "욕망군단장 비아키스",
+    "SimpleName": "비아키스",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1430,
     "AreaName": "목마른 쾌락의 정원",
@@ -122,7 +126,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "비아키스",
+    "Name": "욕망군단장 비아키스",
+    "SimpleName": "비아키스",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1460,
     "AreaName": "목마른 쾌락의 정원",
@@ -160,7 +165,8 @@
     "IsEndContent": true
   },
   {
-    "Name": "비아키스",
+    "Name": "욕망군단장 비아키스",
+    "SimpleName": "비아키스",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1460,
     "AreaName": "목마른 쾌락의 정원",
@@ -168,7 +174,8 @@
     "Gates": []
   },
   {
-    "Name": "쿠크세이튼",
+    "Name": "광기군단장 쿠크세이튼",
+    "SimpleName": "쿠크세이튼",
     "MinCharacterLevel": 50,
     "MinItemLevel": 1475,
     "AreaName": "한밤중의 서커스",
