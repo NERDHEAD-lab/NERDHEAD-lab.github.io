@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "폭풍의 지휘관, 베히모스",
+    "SimpleName": "베히모스",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1640,
+    "AreaName": "사일락 동굴",
+    "Difficulty": "노말",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1640,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 7000
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1415,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 14500
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  }
+]
