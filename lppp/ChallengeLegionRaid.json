@@ -5,6 +5,45 @@
     "MinCharacterLevel": 50,
     "MinItemLevel": 1415,
     "AreaName": "부활한 마수의 심장",
+    "Difficulty": "싱글",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1415,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 200
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1415,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 400
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  },
+  {
+    "Name": "마수군단장 발탄",
+    "SimpleName": "발탄",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1415,
+    "AreaName": "부활한 마수의 심장",
     "Difficulty": "노말",
     "Gates": [
       {
@@ -85,6 +124,59 @@
     "AreaName": "부활한 마수의 심장",
     "Difficulty": "헬",
     "Gates": []
+  },
+  {
+    "Name": "욕망군단장 비아키스",
+    "SimpleName": "비아키스",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1430,
+    "AreaName": "목마른 쾌락의 정원",
+    "Difficulty": "싱글",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1430,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 300
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1430,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 500
+          }
+        ]
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1430,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 800
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
   },
   {
     "Name": "욕망군단장 비아키스",
@@ -179,6 +271,59 @@
     "MinCharacterLevel": 50,
     "MinItemLevel": 1475,
     "AreaName": "한밤중의 서커스",
+    "Difficulty": "싱글",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1475,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 300
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1475,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 400
+          }
+        ]
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1475,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 700
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  },
+  {
+    "Name": "광기군단장 쿠크세이튼",
+    "SimpleName": "쿠크세이튼",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1475,
+    "AreaName": "한밤중의 서커스",
     "Difficulty": "노말",
     "Gates": [
       {
@@ -234,6 +379,73 @@
     "AreaName": "한밤중의 서커스",
     "Difficulty": "헬",
     "Gates": []
+  },
+  {
+    "Name": "몽환군단장 아브렐슈드",
+    "SimpleName": "아브렐슈드",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1490,
+    "AreaName": "몽환의 아스탤지어",
+    "Difficulty": "싱글",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1490,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 400
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1490,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 500
+          }
+        ]
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1500,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 800
+          }
+        ]
+      },
+      {
+        "Gate": 4,
+        "MinItemLevel": 1520,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 900
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
   },
   {
     "Name": "몽환군단장 아브렐슈드",
@@ -425,6 +637,59 @@
               "Grade": "일반"
             },
             "Amount": 2600
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  },
+  {
+    "Name": "질병군단장 일리아칸",
+    "SimpleName": "일리아칸",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1580,
+    "AreaName": "부패한 군주의 판데모니움",
+    "Difficulty": "싱글",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1580,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 700
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1580,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 800
+          }
+        ]
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1580,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 1300
           }
         ]
       }

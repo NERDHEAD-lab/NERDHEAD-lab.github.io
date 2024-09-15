@@ -122,6 +122,61 @@
     "MinItemLevel": 1540,
     "MaxItemLevel": -1,
     "AreaName": "카양겔",
+    "Difficulty": "싱글",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1540,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 400
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1540,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 500
+          }
+        ]
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1540,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 800
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  },
+  {
+    "Name": "영원한 빛의 요람",
+    "SimpleName": "카양겔",
+    "Description": "신이 빚어낸 최후의 성역, 카양겔. 혼돈 속에 새겨진 과거는 아직 사라지지 않고, 빛을 일그러뜨리고 있다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1540,
+    "MaxItemLevel": -1,
+    "AreaName": "카양겔",
     "Difficulty": "노말",
     "Gates": [
       {
@@ -218,6 +273,61 @@
               "Grade": "일반"
             },
             "Amount": 2200
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  },
+  {
+    "Name": "짓밟힌 정원",
+    "SimpleName": "상아탑",
+    "Description": "드높은 탑의 정상에 위치한 사고의 정원. 과거로부터 이어져 온 창조자들의 두려움이 다시금 모습을 드러낸다.",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1600,
+    "MaxItemLevel": -1,
+    "AreaName": "혼돈의 상아탑",
+    "Difficulty": "싱글",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1600,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 900
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1600,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 1100
+          }
+        ]
+      },
+      {
+        "Gate": 3,
+        "MinItemLevel": 1600,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 1500
           }
         ]
       }
