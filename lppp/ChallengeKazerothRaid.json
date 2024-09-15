@@ -1,0 +1,158 @@
+[
+  {
+    "Name": "서막 : 붉어진 백야의 나선",
+    "SimpleName": "에키드나",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1620,
+    "AreaName": "카르가 고원",
+    "Difficulty": "노말",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1620,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 5000
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1620,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 3400
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  },
+  {
+    "Name": "서막 : 붉어진 백야의 나선",
+    "SimpleName": "에키드나",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1640,
+    "AreaName": "카르가 고원",
+    "Difficulty": "하드",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1640,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 6000
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1640,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 12500
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  },
+  {
+    "Name": "1막 : 대지를 부수는 업화의 궤적",
+    "SimpleName": "에기르",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1660,
+    "AreaName": "아베크 골짜기",
+    "Difficulty": "노말",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1660,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 7500
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1660,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 15500
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  },
+  {
+    "Name": "1막 : 대지를 부수는 업화의 궤적",
+    "SimpleName": "에기르",
+    "MinCharacterLevel": 50,
+    "MinItemLevel": 1680,
+    "AreaName": "아베크 골짜기",
+    "Difficulty": "하드",
+    "Gates": [
+      {
+        "Gate": 1,
+        "MinItemLevel": 1680,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 9000
+          }
+        ]
+      },
+      {
+        "Gate": 2,
+        "MinItemLevel": 1680,
+        "RewardItems": [
+          {
+            "RewardItem": {
+              "Name": "골드",
+              "Icon": "https://cdn-lostark.game.onstove.com/efui_iconatlas/money/money_4.png",
+              "Grade": "일반"
+            },
+            "Amount": 18500
+          }
+        ]
+      }
+    ],
+    "IsEndContent": true
+  }
+]
