@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "WebAppDefinition",
+  "description": "Schema for WebAppDefinition",
+  "type": "object",
+  "definitions": {
+    "ServletDefinition": {
+      "type": "object",
+      "title": "ServletDefinition",
+      "properties": {
+        "servlet-name": {
+          "description": "A unique name for the servlet, used for mapping. (매핑에 사용되는 서블릿의 고유한 이름)",
+          "type": "string"
+        },
+        "servlet-class": {
+          "description": "The fully qualified class name of the servlet. (서블릿의 정규화된 클래스 이름)",
+          "type": "string"
+        },
+        "init-params": {
+          "description": "Optional initialization parameters for the servlet. (서블릿을 위한 선택적 초기화 파라미터)",
+          "type": "object"
+        }
+      },
+      "required": [
+        "servlet-name",
+        "servlet-class"
+      ]
+    },
+    "ServletMapping": {
+      "type": "object",
+      "title": "ServletMapping",
+      "properties": {
+        "servlet-name": {
+          "description": "The name of the servlet to map, must match a servlet-name above. (매핑할 서블릿의 이름, 위 servlet-name과 일치해야 함)",
+          "type": "string"
+        },
+        "url-pattern": {
+          "description": "The URL pattern to map to the servlet. (서블릿에 매핑될 URL 패턴)",
+          "type": "string"
+        }
+      },
+      "required": [
+        "servlet-name",
+        "url-pattern"
+      ]
+    }
+  },
+  "properties": {
+    "$schema": {
+      "description": "A reference to the JSON Schema for validation and auto-completion. (유효성 검사와 자동 완성을 위한 JSON 스키마 참조)",
+      "type": "string"
+    },
+    "display-name": {
+      "description": "The display name of the web application. (웹 애플리케이션의 표시 이름)",
+      "type": "string"
+    },
+    "servlets": {
+      "description": "A list of servlet definitions. (서블릿 정의 목록)",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/ServletDefinition"
+      }
+    },
+    "servlet-mappings": {
+      "description": "A list of servlet-to-URL mappings. (서블릿-URL 매핑 목록)",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/ServletMapping"
+      }
+    }
+  }
+}
