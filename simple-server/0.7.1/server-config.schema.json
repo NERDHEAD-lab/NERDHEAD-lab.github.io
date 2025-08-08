@@ -1,0 +1,55 @@
+{
+  "$schema" : "http://json-schema.org/draft-07/schema#",
+  "title" : "Server Configuration",
+  "description" : "Schema for defining the configuration of the HTTP server.",
+  "type" : "object",
+  "additionalProperties" : false,
+  "definitions" : { },
+  "properties" : {
+    "port" : {
+      "description" : "The port on which the HTTP server listens.",
+      "default" : "8080",
+      "examples" : [ "8080" ],
+      "minimum" : 1.0,
+      "maximum" : 65535.0,
+      "type" : "string"
+    },
+    "server-name" : {
+      "description" : "The name of the HTTP server.",
+      "default" : "SimpleHttpServer",
+      "examples" : [ "SimpleHttpServer" ],
+      "type" : "string"
+    },
+    "context-path" : {
+      "description" : "The context path of the server.",
+      "default" : "/",
+      "examples" : [ "/" ],
+      "type" : "string"
+    },
+    "max-threads" : {
+      "description" : "The maximum number of threads the server can use to handle requests.",
+      "default" : "50",
+      "examples" : [ "50" ],
+      "minimum" : 1.0,
+      "type" : "string"
+    },
+    "root-app-name" : {
+      "description" : "The name of the root web application, which must match a folder name inside the 'webapps' directory. This application will be served at the root context path ('/'). The specified folder should contain default web application files such as index.html, error pages, etc.",
+      "default" : "ROOT",
+      "examples" : [ "ROOT" ],
+      "type" : "string"
+    },
+    "webapps-name" : {
+      "description" : "The relative path to the root web application directory. ",
+      "default" : "/webapps",
+      "examples" : [ "/path/to/webapps" ],
+      "type" : "string"
+    },
+    "root-path" : {
+      "description" : "The absolute path to the root. This is the directory contains \"webapps\" directory and the server will serve files from this path. If not specified, it defaults to the current working directory.",
+      "default" : "./",
+      "examples" : [ "/path/to/simple-web-server" ],
+      "type" : "string"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "$schema" : "https://nerdhead-lab.github.io/simple-server/0.7.1/web.schema.json",
+  "display-name" : "Demo Application",
+  "servlets" : [ {
+    "servlet-name" : "HelloWorld",
+    "servlet-class" : "kr.nerdlab.demo.servlet.HelloWorldServlet",
+    "init-params" : {
+      "greeting" : "Hello"
+    }
+  } ],
+  "servlet-mappings" : [ {
+    "servlet-name" : "HelloWorld",
+    "url-pattern" : "/hello"
+  } ]
+}

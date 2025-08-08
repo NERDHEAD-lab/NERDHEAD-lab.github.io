@@ -1,0 +1,75 @@
+{
+  "$schema" : "http://json-schema.org/draft-07/schema#",
+  "title" : "Simple Web Server Web Application manifest configuration schema (web.json)",
+  "description" : "Schema for defining a web application in the Simple Web Server. This configuration file is used to specify servlets and their mappings.",
+  "type" : "object",
+  "additionalProperties" : false,
+  "definitions" : {
+    "ServletDefinitionImpl" : {
+      "type" : "object",
+      "title" : "ServletDefinitionImpl",
+      "properties" : {
+        "servlet-name" : {
+          "description" : "A unique name for the servlet, used for mapping.",
+          "default" : "HelloWorld",
+          "examples" : [ "HelloWorldServlet" ],
+          "type" : "string"
+        },
+        "servlet-class" : {
+          "description" : "The fully qualified class name of the servlet. This class must implement the kr.nerdlab.server.servlet.Servlet interface.",
+          "default" : "kr.nerdlab.demo.servlet.HelloWorldServlet",
+          "examples" : [ "com.example.HelloWorldServlet" ],
+          "type" : "string"
+        },
+        "init-params" : {
+          "description" : "Optional initialization parameters for the servlet, passed to the servlet's init() method.",
+          "examples" : [ "{\"greeting\": \"Hello\"}" ],
+          "type" : "object"
+        }
+      },
+      "required" : [ "servlet-name", "servlet-class" ]
+    },
+    "ServletMappingImpl" : {
+      "type" : "object",
+      "title" : "ServletMappingImpl",
+      "properties" : {
+        "servlet-name" : {
+          "description" : "The name of the servlet to map. This must match a 'servlet-name' from the servlets list.",
+          "default" : "HelloWorld",
+          "examples" : [ "HelloWorldServlet" ],
+          "type" : "string"
+        },
+        "url-pattern" : {
+          "description" : "The URL pattern to map to the servlet. It must start with a '/'.",
+          "default" : "/hello",
+          "examples" : [ "/hello" ],
+          "pattern" : "^/.*",
+          "type" : "string"
+        }
+      },
+      "required" : [ "servlet-name", "url-pattern" ]
+    }
+  },
+  "properties" : {
+    "display-name" : {
+      "description" : "A human-readable name for the web application.",
+      "default" : "Demo Application",
+      "examples" : [ "My Awesome App" ],
+      "type" : "string"
+    },
+    "servlets" : {
+      "description" : "A list of servlet definitions for this web application.",
+      "type" : "array",
+      "items" : {
+        "$ref" : "#/definitions/ServletDefinitionImpl"
+      }
+    },
+    "servlet-mappings" : {
+      "description" : "A list of servlet mappings to URL patterns.",
+      "type" : "array",
+      "items" : {
+        "$ref" : "#/definitions/ServletMappingImpl"
+      }
+    }
+  }
+}

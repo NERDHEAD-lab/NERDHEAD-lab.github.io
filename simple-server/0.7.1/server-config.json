@@ -1,0 +1,10 @@
+{
+  "$schema" : "https://nerdhead-lab.github.io/simple-server/0.7.1/server-config.schema.json",
+  "port" : "8080",
+  "server-name" : "SimpleHttpServer",
+  "context-path" : "/",
+  "max-threads" : "50",
+  "root-app-name" : "ROOT",
+  "webapps-name" : "/webapps",
+  "root-path" : "./"
+}
